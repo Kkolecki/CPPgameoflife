@@ -1,0 +1,3 @@
+﻿  main.cpp
+LINK : warning LNK4075: zignorowano opcję „/INCREMENTAL” z powodu określenia opcji „/FORCE”
+  Game of Life.vcxproj -> C:\Users\keiji\Desktop\GameOfLifecpp\Game of Life\Debug\Game of Life.exe
